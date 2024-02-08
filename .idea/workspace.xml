@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41293cbf-5a80-4d56-a517-49ae87d41d89" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/accessible.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/create record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/create-bucket-policy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/create-zone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/created zone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/creating-record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/edit-policy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/get_started_route53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/object.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/records.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/uploaded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images/zone-table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/Readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2c01LzPuien1I8CUvhOOFD1vtcW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53/images" />
+      <recent name="$PROJECT_DIR$/Depoy a static website on s3 and connect it to a custom domain through route53" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41293cbf-5a80-4d56-a517-49ae87d41d89" name="Changes" comment="" />
+      <created>1707233631381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707233631381</updated>
+      <workItem from="1707233633007" duration="5785000" />
+      <workItem from="1707292129664" duration="10660000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1707245825644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707245825644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>
